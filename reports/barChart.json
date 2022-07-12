@@ -1,0 +1,43 @@
+{
+    "type": "bar",
+    "data": {
+        "labels": [],
+        "datasets": [
+            {
+                "label": "",
+                "backgroundColor": "rgb(31,239,105)",
+                "borderColor": "rgb(31,239,105)",
+                "data": []
+            }
+        ]
+    },
+    "options": {
+        "legend": {
+            "display": false
+        },
+        "title": {
+            "display": true,
+            "text": "",
+            "fontColor": "white",
+            "fontSize": 18,
+            "fontFamily": "'Roboto', sans-serif"
+        },
+        "scales": {
+            "yAxes": [
+                {
+                    "ticks": {
+                        "beginAtZero": true,
+                        "fontColor": "white"
+                    }
+                }
+            ],
+            "xAxes": [
+                {
+                    "ticks": {
+                        "fontColor": "white"
+                    }
+                }
+            ]
+        }
+    }
+}
